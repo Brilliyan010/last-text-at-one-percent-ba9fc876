@@ -1,5 +1,8 @@
 // Last Text at One Percent — the dying phone's final text.
 //
+// Word choice: "lamp" is deliberately mundane — a specific, low-stakes
+// object makes the betrayal petty and concrete instead of abstract.
+//
 // One line, written verbatim to /output/entry.txt. No trailing newline:
 // the file is exactly the text message, nothing else.
 import { mkdirSync, writeFileSync } from "node:fs";
